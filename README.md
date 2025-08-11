@@ -1,4 +1,4 @@
-# Offline PWA Basic Template [With Assets Local Cache]
+# Offline PWA Basic Template [With Assets Caching]
 
 ##### **IMPORTANT**: THIS PROJECT STILL IN PROGRESS!!  
 
@@ -16,7 +16,8 @@ Following **code best practices**, **DDD**, and **SOLID** principles for maintai
   - File Storage
   - Manifest.json
   - Service Worker
-  - Permissions requests
+  - Device Features:
+    - Permissions requests
     - APP Installation
     - Geolocation (GPS)
 - **CSS File**
