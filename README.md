@@ -2,23 +2,26 @@
 
 ##### **IMPORTANT**: THIS PROJECT STILL IN PROGRESS!!  
 
-A REST API boilerplate.  
+Offline PWA Basic boilerplate.  
 Following **code best practices**, **DDD**, and **SOLID** principles for maintainable, scalable, and testable code.
 
 ### Using  
 
-- **Node.js** with **Express**
-- **TypeScript**
+- **Pure JavaScript**
 
 ### And pre-configured Features
 
-- **Latest TypeScript** setup
-- **Middlewares**:
-  - CORS
-  - Rate Limiter
-  - Request Handler using Helmet
-- **Babel**
-- `.gitignore` file for sensitive/common ignored files
+- **Latest JavaScript Browser APIs**
+- **PWA Features**:
+  - File Storage
+  - Manifest.json
+  - Service Worker
+  - Permissions requests
+    - APP Installation
+    - Geolocation (GPS)
+- **CSS File**
+- **'Main APP' JavaScript File in index.html**
+- `offline.html` file for no network situations.
 
 ___
 
@@ -36,7 +39,7 @@ ___
 
 ### Install
 
-> Use
+> Use browser 'install button' (probably at the right top)
 ___
 
 <br>
