@@ -40,7 +40,7 @@ ___
 
 ### Install
 
-> Use browser 'install button' (probably at the right top)
+> Run using some web server or VS Code "Live Server" extension and click in browser 'install button' (probably at the right top).
 ___
 
 <br>
