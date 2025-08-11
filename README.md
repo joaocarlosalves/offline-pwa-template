@@ -1,4 +1,4 @@
-# Node JS: Express + TypeScript + Jest + Docker
+# Offline PWA Basic Template [With Caching Files]
 
 ##### **IMPORTANT**: THIS PROJECT STILL IN PROGRESS!!  
 
@@ -51,5 +51,5 @@ João Carlos Alves © 2025
 • [e-mail](hello@joaocarlosalves.dev/)  
 • [linkedin](https://www.linkedin.com/in/joaocarlosalvesdev/)
 
-#### **IMPORTANT**: THIS PROJECT STILL IN PROGRESS!!  
+#### **IMPORTANT**: THIS PROJECT STILL IN PROGRESS!! 
 ___
