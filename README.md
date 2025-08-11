@@ -1,4 +1,4 @@
-# Offline PWA Basic Template [With Caching Files]
+# Offline PWA Basic Template [With Assets Local Cache]
 
 ##### **IMPORTANT**: THIS PROJECT STILL IN PROGRESS!!  
 
